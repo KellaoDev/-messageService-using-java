@@ -1,0 +1,76 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit', Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 50%;
+    padding: 1.2em;
+    margin: 0 auto;
+    margin-top: 2em;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 1em;
+}
+
+header p {
+	padding-top: 0.4em;
+	text-align: left;
+}
+
+main {
+	display: flex;
+	margin-top: 1em;
+	margin-left: 32%;
+	font-size: 1.2em;
+}
+
+main div {
+	padding: 0.4em;
+}
+
+#usuarios {
+	width: 80%;
+}
+
+#valorTitulo {
+	width: 82%;
+	font-size: 1.1em;
+}
+
+#valorTexto {
+	width: 94%;
+	padding-bottom: 5em;
+	font-size: 1.2em;
+}
+
+#button01 {
+	margin-left: 20.5em;
+	padding: 0.3em;
+	color: #FFF;
+	background-color: rgb(83, 83, 228);
+	font-size: 17px;
+	border-radius: 1px;
+	border: none;
+	cursor: pointer;
+}
+
+#button02 {
+	padding: 0.3em;
+	color: #000;
+	background-color: lightgreen;
+	font-size: 17px;
+	border-radius: 1px;
+	border: none;
+	cursor: pointer;
+}
+
+
+
+
+
