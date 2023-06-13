@@ -49,10 +49,8 @@
 						<input type="text" name="valorTexto" id="valorTexto" required>
 					</div>
 					<button type="submit" id="button01">Entrar</button>
-					<button type="submit" id="button02">Voltar</button>
-				</form>
-				
-				
+					<button type="button" id="button02">Voltar</button>
+				</form>		
 			</main>
 		</body>
 		</html>
